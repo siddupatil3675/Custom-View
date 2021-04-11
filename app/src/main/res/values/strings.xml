@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ND940C3-Project</string>
+    <string name="app_description">Download files from Internet</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="notification_title">Udacity: Android Kotlin Nanodegree </string>
+    <string name="notification_description">The Project 3 repository is downloaded</string>
+    <string name="notification_button">See changes</string>
+
+    <string name="button_name">Download</string>
+    <string name="button_loading">We are loading </string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="notification_channel_id">Download Channel</string>
+    <string name="check_status">Check the status</string>
+    <string name="notification_channel_name">Download</string>
+
+    <string name="glide_label">Glide - Image Loading Library by BumpTech</string>
+    <string name="glide_url">https://github.com/bumptech/glide/archive/master.zip</string>
+    <string name="udacity_label">LoadApp - Current repository by Udacity</string>
+    <string name="udacity_url">https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter/archive/master.zip</string>
+    <string name="retrofit_label">Retrofit - Type-safe HTTP client for Android and Java by Square, Inc</string>
+    <string name="retrofit_url">https://github.com/square/retrofit/archive/master.zip</string>
+    <string name="validation">Please select a file to download!</string>
+    <string name="label_file_name">File Name :</string>
+    <string name="download_status_label">Status :</string>
+    <string name="button_ok">OK</string>
+    <string name="extra_file_name">FILENAME</string>
+    <string name="download_status">Status</string>
+    <string name="status_success">success</string>
+    <string name="status_failure">failure</string>
+    <string name="download_img">download</string>
+</resources>
